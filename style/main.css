@@ -497,14 +497,13 @@ hr {
 
 .tile.tile-1024 .tile-inner {
     font-size: 0px;
-    background-image: url('../img/pedro_no_sleeves_truck.jpg');
+    background-image: url('../img/pedro_plaid_pants.png');
     background-size: cover;
 }
 
 .tile.tile-2048 .tile-inner {
     font-size: 0px;
     background-image: url('../img/pedro_noshirt.gif');
-    /* use ../img/pumpkin-cupcake.jpg for fall */
     background-size: cover;
 }
 
